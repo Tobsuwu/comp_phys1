@@ -1,0 +1,7 @@
+from dft_chargedensity2.xsf:
+
+Distances betweeen atoms: 
+id 2 (V) and 10 (O) = 1.7647 Å 
+id 2 (V) and 4 (v) = 3.4000 Å
+id 10 (O) and 4 (V) = 2.0640 Å
+Angle between atom ids 2 (V), 10 (O), 4 (V) is 125.032 degrees.

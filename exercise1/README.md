@@ -1,0 +1,1 @@
+Environment setup and first python coding exercises
